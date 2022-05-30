@@ -1,5 +1,5 @@
 ---
-description: deneme
+description: deneme degisecekmi
 ---
 
 # How to mint
