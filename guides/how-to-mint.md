@@ -1,4 +1,4 @@
-# How to mint
+# How to mint nft
 
 {% hint style="info" %}
 **Good to know:** Our minting date will be announced later.
