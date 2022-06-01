@@ -2,17 +2,17 @@
 
 ### **Discord Role Machine**
 
-**Our discord role machine gives the opportunity to each community and his members to obtain their roles easily via our tool. Here is how you do it:**&#x20;
+**Our discord role machine gives the opportunity to each community and his members to obtain their roles easily via our tool. Here is how you do it:**
 
 1\. Visit [https://vitruvians.tools/](https://vitruvians.tools/) and click to "Launch App" in the right upper-corner.
 
-2\. Link your Metamask Wallet.&#x20;
+2\. Link your Metamask Wallet.
 
-3\. Click "Discord Role Machine" and connect with your discord.&#x20;
+3\. Click "Discord Role Machine" and connect with your discord.
 
 4\. Choose the server you want to verify your roles.
 
-5\. Hit the "Sync Role" button, and it's all done.&#x20;
+5\. Hit the "Sync Role" button, and it's all done.
 
 Check your roles in your discord server.
 
@@ -36,9 +36,9 @@ Check your roles in your discord server.
 
 1\. Visit [https://vitruvians.tools/](https://vitruvians.tools/) and click to "Launch App" in the right upper-corner.
 
-2\. Link your Metamask Wallet.&#x20;
+2\. Link your Metamask Wallet.
 
-3\. **** Select the **Rarity** on your left menu.&#x20;
+3\. Select the **Rarity** on your left menu.
 
 4\. The content will show you the rarity and some other information about the collection
 
@@ -54,13 +54,13 @@ Check your roles in your discord server.
 
 ### **Safe Transfer**
 
-**The safe transfer tool is one of our most needed tools. It’s very simple in what it does and why you need it. You can basically send your nft's to anyone. As you will see the tool interacts with the nft contract itself. Whenever you've clicked on the send nft button it will ask for an wallet which will lead you to an interaction with Metamask on the blockchain. You will be able to read  everything what will happen in the next steps within the interaction. That's why we call it a safe transfer. This is how you can use it:**
+**The safe transfer tool is one of our most needed tools. It’s very simple in what it does and why you need it. You can basically send your nft's to anyone. As you will see the tool interacts with the nft contract itself. Whenever you've clicked on the send nft button it will ask for an wallet which will lead you to an interaction with Metamask on the blockchain. You will be able to read everything what will happen in the next steps within the interaction. That's why we call it a safe transfer. This is how you can use it:**
 
 1\. Visit [https://vitruvians.tools/](https://vitruvians.tools/) and click to "Launch App" in the right upper-corner.
 
-2\. Link your Metamask Wallet.&#x20;
+2\. Link your Metamask Wallet.
 
-3\. **** You will be able to see all your nft's after you have linked your wallet.
+3\. You will be able to see all your nft's after you have linked your wallet.
 
 4\. Click on the send nft button.
 
@@ -73,7 +73,7 @@ Check your roles in your discord server.
 {% endhint %}
 
 {% hint style="info" %}
-**Hint**: Always double check your designated wallet address, even after the Vitruvian tool you can still follow it in the Metamask screen.&#x20;
+**Hint**: Always double check your designated wallet address, even after the Vitruvian tool you can still follow it in the Metamask screen.
 {% endhint %}
 
 {% hint style="success" %}
@@ -88,13 +88,13 @@ Check your roles in your discord server.
 
 ### **Vitruvian Market**
 
-**You will be able to buy items here, and as a sneak peek we will be telling you that you will be able to buy our whitelists soon in our Vitruvian market. Let’s take our whitelist sales as an example and see how it will work. Whenever a buyer buys the whitelist it will automatically collect the buyers wallet address, so it can be used later for minting. This feature will also make it available for users or communities to use the market in other ways. Such as a lottery draw application for your community. This is how you will access the market:**&#x20;
+**You will be able to buy items here, and as a sneak peek we will be telling you that you will be able to buy our whitelists soon in our Vitruvian market. Let’s take our whitelist sales as an example and see how it will work. Whenever a buyer buys the whitelist it will automatically collect the buyers wallet address, so it can be used later for minting. This feature will also make it available for users or communities to use the market in other ways. Such as a lottery draw application for your community. This is how you will access the market:**
 
 1\. Visit [https://vitruvians.tools/](https://vitruvians.tools/) and click to "Launch App" in the right upper-corner.
 
-2\. Link your Metamask Wallet.&#x20;
+2\. Link your Metamask Wallet.
 
-3\. **** Select the Market on your left menu.&#x20;
+3\. Select the Market on your left menu.
 
 4\. Buy any item you want.
 
@@ -114,9 +114,9 @@ Check your roles in your discord server.
 
 1\. Visit [https://vitruvians.tools/](https://vitruvians.tools/) and click to "Launch App" in the right upper-corner.
 
-2\. Link your Metamask Wallet.&#x20;
+2\. Link your Metamask Wallet.
 
-3\. **** Select the **My NFT** on your left menu(the first screen you will see after connecting your wallet).&#x20;
+3\. \*\*\*\* Select the **My NFT** on your left menu(the first screen you will see after connecting your wallet).
 
 ### **Dex**
 
@@ -124,9 +124,9 @@ Check your roles in your discord server.
 
 1\. Visit [https://vitruvians.tools/](https://vitruvians.tools/) and click to "Launch App" in the right upper-corner.
 
-2\. Link your Metamask Wallet.&#x20;
+2\. Link your Metamask Wallet.
 
-3\. **** Select the **Dex** on your left menu.
+3\. Select the **Dex** on your left menu.
 
 4\. On the left side of the content you will be able to buy our ERC20 token if you click the buy button
 

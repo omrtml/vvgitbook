@@ -11,7 +11,8 @@
 * [Our Roadmap](guides/our-roadmap.md)
 * [Faqs](guides/faqs.md)
 * [Press kit](guides/press-kit.md)
+* [Official Links](guides/official-links.md)
 
-## For Communities
+## For Communities and Owners
 
-* [Discord Role Machine](for-communities/discord-role-machine.md)
+* [Discord Role Machine](for-communities-and-owners/discord-role-machine.md)

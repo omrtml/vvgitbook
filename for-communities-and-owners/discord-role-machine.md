@@ -8,5 +8,5 @@ These instructions are for communities/owners to enchant our tools to their serv
 3. Invite the Vitruvians Bot to your discord server
 
 {% hint style="info" %}
-Support: We recommend that you open at least two channels in your discord role which will provide help from the Vitruvian team to your community.
+**Support**: We recommend that you open at least two channels in your discord role which will provide help from the Vitruvian team to your community.
 {% endhint %}
