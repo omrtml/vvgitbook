@@ -12,12 +12,6 @@
 * [Faqs](guides/faqs.md)
 * [Press kit](guides/press-kit.md)
 
-## Use Cases
-
-* [For Designers](use-cases/for-designers.md)
-* [For Engineers](use-cases/for-engineers.md)
-* [For Support](use-cases/for-support.md)
-
 ## Extras
 
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
