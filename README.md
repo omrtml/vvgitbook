@@ -21,7 +21,9 @@ We are the Vitruvians, a community born in Oasis blockchain. We have chosen the 
 **Good to know:** The _**Vitruvian Man**_ ([Italian](https://en.wikipedia.org/wiki/Italian\_language): _**L'uomo vitruviano**_ [\[ˈlwɔːmo vitruˈvjaːno\]](https://en.wikipedia.org/wiki/Help:IPA/Italian); originally known as _**Le proporzioni del corpo umano secondo Vitruvio**_, [lit](https://en.wikipedia.org/wiki/Literal\_translation). 'The proportions of the human body according to Vitruvius') is a [drawing](https://en.wikipedia.org/wiki/Drawing) made by the [Italian](https://en.wikipedia.org/wiki/Italians) [polymath](https://en.wikipedia.org/wiki/Polymath) [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo\_da\_Vinci) in about 1490.[\[1\]](https://en.wikipedia.org/wiki/Vitruvian\_Man#cite\_note-1) It is accompanied by notes based on the work of the [Roman](https://en.wikipedia.org/wiki/Ancient\_Rome) architect [Vitruvius](https://en.wikipedia.org/wiki/Vitruvius). The drawing, which is in ink on paper, depicts a man in two superimposed positions with his arms and legs apart and inscribed in a circle and square. [Full story->](https://en.wikipedia.org/wiki/Vitruvian\_Man)
 {% endhint %}
 
-#### Some of our feedbacks
+{% embed url="https://youtu.be/KrqouzemF2M" %}
+
+### Some of our feedbacks
 
 Here are a couple of feedbacks:
 
@@ -50,11 +52,3 @@ Follow our handy guides to get started on the basics as quickly as possible:
 ### Fundamentals: Dive a little deeper
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
