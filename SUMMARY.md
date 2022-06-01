@@ -11,7 +11,3 @@
 * [Our Roadmap](guides/our-roadmap.md)
 * [Faqs](guides/faqs.md)
 * [Press kit](guides/press-kit.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
