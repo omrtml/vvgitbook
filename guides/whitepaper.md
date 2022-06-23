@@ -102,7 +102,7 @@ While $VITRU is introduced as an over-inflationary token, it will also come with
 
 Total supply of $VITRU is 1 billion tokens. These are planned to be allocated as shown below.
 
-
+![](<../.gitbook/assets/chart.png>)
 
 Each OG NFT will provide 200 $VITRU per day to the staker, until the mint day of our second collection. The second collection will also earn $VITRU (the amount to be declared later). If we manage to distribute all our $VITRU tokens to Vitruvians collection holders in full efficiency, we plan to distribute 60M tokens per year. There are also 30M tokens to be distributed to stakers of other NFT collections every year. The amount which cannot be distributed will be burned. 
 
@@ -110,6 +110,7 @@ We plan to have a maximum of 100M $VITRU tokens in circulation by the end of the
 
 Token distribution schedule over the years is as follows.
 
+![](<../.gitbook/assets/table.png>)
 
 
 Marketing: A good project deserves a well-planned marketing campaign. The goal is to use these tokens for marketing purposes. If they are not used by the end of each defined period, they will be burned. 
