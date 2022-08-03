@@ -10,7 +10,7 @@ Phase 1 Focus: Building Vitruvians ecosystem
 * [x] Vitruvian.tools website goes live
 * [x] Distribution of Vitruvian tools to other communities
 * [x] Build up OG community
-* [ ] $VITRU token release
+* [x] $VITRU token release
 
 Phase 2 Focus: Expand utilities and bring value
 
