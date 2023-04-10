@@ -8,7 +8,7 @@ Twitter: [https://twitter.com/VitruviansTools/](https://twitter.com/VitruviansTo
 
 Guide: [https://docs.vitruvians.tools/](https://docs.vitruvians.tools/)
 
-Discord: [https://docs.vitruvians.tools/](https://discord.gg/vitruvians)]
+Discord: [https://discord.gg/vitruvians/](https://discord.gg/vitruvians)
 
 Dev: [https://geniousoft.com/en](https://geniousoft.com/en)
 

@@ -1,11 +1,10 @@
 ---
 description: >-
-  Hi there! This documents will guide you throughout the whole project and the
-  tools we have created for other communities and the whole network of Oasis.
-  Hope you enjoy it!
+  Hi there! This document will guide you throughout the whole project and the
+  tools we have created for communities. Hope you enjoy it!
 ---
 
-# Welcome to the Vitruvians Guide.
+# Welcome to the Vitruvians guide
 
 ## What's the purpose of our project?
 
